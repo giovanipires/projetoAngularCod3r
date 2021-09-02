@@ -1,16 +1,29 @@
 {
-    "products": [
-        {"id": 1,
-        "name": "Caneta",
-        "price": 5.89
-        },
-        {"id": 2,
-        "name": "Notebook Mac-Pro",
-        "price": 12000.89
-        },
-        {"id": 3,
-        "name": "Samsung S20+",
-        "price": 5000.89
-        }
-    ]
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta Bic Azul",
+      "price": "2.00"
+    },
+    {
+      "id": 3,
+      "name": "Samsung S20+",
+      "price": 5000.89
+    },
+    {
+      "name": "Caneta Bic Vermelha",
+      "price": "2.75",
+      "id": 4
+    },
+    {
+      "name": "Notebook Lenovo G60",
+      "price": "4999.99",
+      "id": 5
+    },
+    {
+      "name": "Samsung S20",
+      "price": "2000.99",
+      "id": 7
+    }
+  ]
 }
